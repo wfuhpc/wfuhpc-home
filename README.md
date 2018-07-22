@@ -1,5 +1,7 @@
 # WFU HPC Website
 
+[![Join the chat at https://gitter.im/wfuhpc-home/Lobby](https://badges.gitter.im/wfuhpc-home/Lobby.svg)](https://gitter.im/wfuhpc-home/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the source code of the WFU HPC website available at [wfuhpc.org](https://wfuhpc.org).
 
 ## Development
